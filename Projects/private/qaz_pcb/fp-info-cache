@@ -1,4 +1,4 @@
-24202043303184749
+24200333248077821
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90691,6 +90691,34 @@ Arduino_Pro_Micro_Flipped
 0
 24
 24
+ScottoKeebs_MCU
+Frood_PinHeader_2x13+5_P2.54mm_Dual
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+62
+31
+ScottoKeebs_MCU
+Frood_PinHeader_2x13+5_P2.54mm_Dual_VAligned
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+56
+31
+ScottoKeebs_MCU
+Frood_PinHeader_2x13+5_P2.54mm_Labels_Top
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+31
+31
+ScottoKeebs_MCU
+Frood_PinHeader_2x13+5_P2.54mm_No_Labels
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+31
+31
 ScottoKeebs_MCU
 Nice_Nano_V2_Flipped
 
