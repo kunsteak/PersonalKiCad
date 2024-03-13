@@ -145,7 +145,7 @@
   (net 66 "Row 4")
   (net 67 "Net-(D38-A)")
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 009b96d7-32ee-4b82-b0f0-9ad5753a9a61)
     (at 170.4975 107.315)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -285,24 +285,24 @@
       (net 50 "Column 7") (pinfunction "1") (pintype "passive") (tstamp 2e257bf6-cf15-44e2-b7e7-11ea5b5311af))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 30 "Net-(D27-A)") (pinfunction "2") (pintype "passive") (tstamp d4eace80-3914-48c2-be86-2c6e777f9212))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 016d68ef-870b-4431-9488-b538d5affba0)
     (at 103.8225 88.265)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -442,24 +442,24 @@
       (net 46 "Column 3") (pinfunction "1") (pintype "passive") (tstamp ecf445e3-8dd3-46e7-a802-ec2f80d172f6))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 16 "Net-(D14-A)") (pinfunction "2") (pintype "passive") (tstamp 5be821fc-48bc-43b0-8152-bdb5c538fd58))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 06f8bc8a-6b71-4725-9891-0bf1afa2c1a8)
     (at 41.91 69.215)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -599,24 +599,24 @@
       (net 43 "Column 0") (pinfunction "1") (pintype "passive") (tstamp a17add49-08ad-4896-9050-c8ca91e25ecf))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 2 "Net-(D1-A)") (pinfunction "2") (pintype "passive") (tstamp 98a3b643-41d3-4691-8c16-bf718eef9ac1))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 0b86bce4-2f40-49f5-95bc-6491e189711f)
     (at 118.11 69.215)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -756,24 +756,24 @@
       (net 47 "Column 4") (pinfunction "1") (pintype "passive") (tstamp 59ad3def-59ab-492f-9654-4f3169c83792))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 6 "Net-(D5-A)") (pinfunction "2") (pintype "passive") (tstamp bcb0966a-9804-456a-8bec-ac921b8f7a26))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 17b8face-c48b-474f-9a88-4e967c0cf396)
     (at 156.21 69.215)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -913,24 +913,24 @@
       (net 49 "Column 6") (pinfunction "1") (pintype "passive") (tstamp ad14c589-0e01-4dca-93d8-c8833289ba49))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 8 "Net-(D7-A)") (pinfunction "2") (pintype "passive") (tstamp c7fbf16f-c240-4b6a-b81c-cdd11d4fbde6))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 1a85d756-9983-4ea8-bae3-78f18d299bf0)
     (at 41.91 126.365)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -1070,24 +1070,24 @@
       (net 43 "Column 0") (pinfunction "1") (pintype "passive") (tstamp 66ddb3be-bc2a-4054-8971-b78ab8a71268))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 34 "Net-(D30-A)") (pinfunction "2") (pintype "passive") (tstamp 5a52920b-faef-46eb-857f-0b841ae43ef3))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Rotary_Encoder_PEC11R-4220K-S0024" (layer "F.Cu")
+  (footprint "Personal_Components:Rotary_Encoder_PEC11R-4220K-S0024" (layer "F.Cu")
     (tstamp 214528c4-a336-4761-95dd-c14a8af9fc8f)
     (at 208.24125 47.665)
     (descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
@@ -1174,14 +1174,14 @@
       (net 67 "Net-(D38-A)") (pinfunction "S1") (pintype "passive") (tstamp fe1f4e21-231f-453f-8d33-23ce664c9aca))
     (pad "S2" thru_hole circle (at 14.5 0) (size 2 2) (drill 1) (layers "*.Cu" "*.Mask")
       (net 52 "Column 9") (pinfunction "S2") (pintype "passive") (tstamp aae6029d-68e0-43c6-bcef-a2d87cb758ea))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Rotary_Encoder_Bourns_-_PEC11R-4220F-S0024.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Rotary_Encoder_Bourns_-_PEC11R-4220F-S0024.step"
       (offset (xyz 7.5 -2.5 -0.04))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 2951f5f1-38d4-417f-b975-93faa0f74f5b)
     (at 94.2975 107.315)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -1321,24 +1321,24 @@
       (net 46 "Column 3") (pinfunction "1") (pintype "passive") (tstamp deccc0d2-2c31-479f-a820-86763897716a))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 26 "Net-(D23-A)") (pinfunction "2") (pintype "passive") (tstamp 65b1591a-81ca-4d5d-98d1-88c920f90852))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.25u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.25u" (layer "F.Cu")
     (tstamp 2c85dc25-4492-45c3-943f-9301b59cbeab)
     (at 44.29125 88.265)
     (descr "keyswitch Hotswap Socket Keycap 1.25u")
@@ -1478,24 +1478,24 @@
       (net 43 "Column 0") (pinfunction "1") (pintype "passive") (tstamp a37ac171-7f21-4e9f-8bf2-a65703078698))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 13 "Net-(D11-A)") (pinfunction "2") (pintype "passive") (tstamp f76ebf03-a92f-46ac-82c8-b61365cf10eb))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.25u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.25u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 34c09fe9-43da-4693-bb7e-121377d5bd9f)
     (at 180.0225 126.365)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -1635,24 +1635,24 @@
       (net 50 "Column 7") (pinfunction "1") (pintype "passive") (tstamp d5acb546-7f69-4ee1-8879-622fb664db4c))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 39 "Net-(D35-A)") (pinfunction "2") (pintype "passive") (tstamp 0def6b77-ddbb-4b7e-b7c5-962f29e64b9d))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 36dccbc3-57b6-4127-9fc7-45badda437cc)
     (at 141.9225 88.265)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -1792,24 +1792,24 @@
       (net 48 "Column 5") (pinfunction "1") (pintype "passive") (tstamp 4e5904e1-5cbf-4848-a86a-3da2159e6fdb))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 18 "Net-(D16-A)") (pinfunction "2") (pintype "passive") (tstamp 7cb0e124-ce20-433e-89cc-27d2bd91f3df))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 3a50e387-5160-4d3f-87f6-45b70b4081e1)
     (at 199.0725 88.265)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -1949,24 +1949,24 @@
       (net 51 "Column 8") (pinfunction "1") (pintype "passive") (tstamp a597a8b4-5eb6-4879-a83f-d2017cc5275b))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 21 "Net-(D19-A)") (pinfunction "2") (pintype "passive") (tstamp bf2211e3-1202-43f6-9428-11ca58fcf65a))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 3c1c20ec-04ec-4a8e-b758-854096efc351)
     (at 99.06 69.215)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -2106,24 +2106,24 @@
       (net 46 "Column 3") (pinfunction "1") (pintype "passive") (tstamp f912e57e-30a4-4b28-8824-17787971c4dd))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 5 "Net-(D4-A)") (pinfunction "2") (pintype "passive") (tstamp e5b70981-08e8-4b8f-80e4-9e99052925f5))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 3e6dddb0-2ad3-4ec2-9375-a72250586d54)
     (at 218.1225 88.265)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -2263,24 +2263,24 @@
       (net 52 "Column 9") (pinfunction "1") (pintype "passive") (tstamp bd89bf23-f992-4fea-b7ab-bee6c09cec8d))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 22 "Net-(D20-A)") (pinfunction "2") (pintype "passive") (tstamp f79c9610-fccf-48b7-8020-7e22fc319b1e))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.75u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.75u" (layer "F.Cu")
     (tstamp 402681d6-03d4-4f42-8394-75368e2f647d)
     (at 49.05375 107.315)
     (descr "keyswitch Hotswap Socket Keycap 1.75u")
@@ -2420,24 +2420,24 @@
       (net 43 "Column 0") (pinfunction "1") (pintype "passive") (tstamp 2509d700-2716-4c83-8a2a-98b085885ff1))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 24 "Net-(D21-A)") (pinfunction "2") (pintype "passive") (tstamp 95db3881-91f5-48c5-bdcc-5b0410682262))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.75u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.75u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 4127e427-8c84-46d3-ba0a-7f7d2b502975)
     (at 199.0725 126.365)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -2577,24 +2577,24 @@
       (net 51 "Column 8") (pinfunction "1") (pintype "passive") (tstamp b47eeed6-da64-4785-a123-5e7fa31ef1fd))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 40 "Net-(D36-A)") (pinfunction "2") (pintype "passive") (tstamp b550e760-4601-4f28-9f06-6b0283be9deb))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 444e23f6-91d5-47e3-9068-b0feed72eb43)
     (at 137.16 69.215)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -2734,24 +2734,24 @@
       (net 48 "Column 5") (pinfunction "1") (pintype "passive") (tstamp ad1f7ec4-c5dc-4c6c-a199-c3acc00d7df2))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 7 "Net-(D6-A)") (pinfunction "2") (pintype "passive") (tstamp 8d83a5e5-f692-4c8f-8f97-a9d16492b54b))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Stabilizer:Stabilizer_MX_2.00u" (layer "F.Cu")
+  (footprint "Personal_Stabilizer:Stabilizer_MX_2.00u" (layer "F.Cu")
     (tstamp 499a4a12-ede3-402d-a675-83a0107cf4b2)
     (at 151.4475 126.365 180)
     (descr "MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u")
@@ -2793,14 +2793,14 @@
     (pad "" np_thru_hole circle (at -11.938 8.225 180) (size 3.9878 3.9878) (drill 3.9878) (layers "*.Cu" "*.Mask") (tstamp 9218d50e-2c29-4b80-99c9-d18988a260e7))
     (pad "" np_thru_hole circle (at 11.938 -6.985 180) (size 3.048 3.048) (drill 3.048) (layers "*.Cu" "*.Mask") (tstamp 12960545-9f3c-445d-b712-c38baec2585e))
     (pad "" np_thru_hole circle (at 11.938 8.225 180) (size 3.9878 3.9878) (drill 3.9878) (layers "*.Cu" "*.Mask") (tstamp 40da25a2-16f7-4f4a-9d46-70f3f7ced866))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Stabilizer.3dshapes/Stabilizer_MX_2.00u.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Stabilizer.3dshapes/Stabilizer_MX_2.00u.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 4d047452-cbbd-4c35-981f-d61c2c7551f3)
     (at 80.01 69.215)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -2940,24 +2940,24 @@
       (net 45 "Column 2") (pinfunction "1") (pintype "passive") (tstamp 2a30e306-e954-42b3-a662-8cfc08deeae5))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 4 "Net-(D3-A)") (pinfunction "2") (pintype "passive") (tstamp 29264b45-122f-4403-8af1-35695dd0939b))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 4e0ac905-f6c9-4c83-869f-b232f2d4b624)
     (at 180.0225 88.265)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -3097,24 +3097,24 @@
       (net 50 "Column 7") (pinfunction "1") (pintype "passive") (tstamp 76703bd2-583d-4598-a480-b1e6ab6d78da))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 20 "Net-(D18-A)") (pinfunction "2") (pintype "passive") (tstamp a0cd0112-5fbf-41ab-894f-2ce06c8dedf8))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 5214cb01-ab29-4bf3-86de-a9bd3c879434)
     (at 194.31 69.215)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -3254,24 +3254,24 @@
       (net 51 "Column 8") (pinfunction "1") (pintype "passive") (tstamp 81e7052e-781b-4ccd-beac-e47ec0356bd4))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 10 "Net-(D9-A)") (pinfunction "2") (pintype "passive") (tstamp 3a2bd9e3-4aa3-470f-9c9b-cc3a0849329e))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 5edb8226-06ff-484a-b8eb-1b8934000289)
     (at 189.5475 107.315)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -3411,24 +3411,24 @@
       (net 51 "Column 8") (pinfunction "1") (pintype "passive") (tstamp 7ea4b715-2352-4436-8e54-1bfdcf023259))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 31 "Net-(D28-A)") (pinfunction "2") (pintype "passive") (tstamp 1e099fb4-a101-4f61-ad49-f6489036733a))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.25u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.25u" (layer "F.Cu")
     (tstamp 627cb0db-6cdc-4248-abb8-d0bf496de76e)
     (at 215.74125 69.215)
     (descr "keyswitch Hotswap Socket Keycap 1.25u")
@@ -3568,24 +3568,24 @@
       (net 52 "Column 9") (pinfunction "1") (pintype "passive") (tstamp e47bc7f0-a124-4353-9f1b-47421a7439de))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 11 "Net-(D10-A)") (pinfunction "2") (pintype "passive") (tstamp 5179517c-85ea-4e4d-b780-a6d51802612f))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.25u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.25u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 67860f8a-f42f-43c7-9d69-bc5ac2854834)
     (at 75.2475 107.315)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -3725,24 +3725,24 @@
       (net 45 "Column 2") (pinfunction "1") (pintype "passive") (tstamp 3e6e084b-ba73-474d-a459-f4cdf420d17b))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 25 "Net-(D22-A)") (pinfunction "2") (pintype "passive") (tstamp 633a1863-a680-4e7d-92c7-f9ab1ffd1d8b))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 6b017687-4dc5-49cf-b689-8bdb651229a4)
     (at 80.01 126.365)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -3882,24 +3882,24 @@
       (net 45 "Column 2") (pinfunction "1") (pintype "passive") (tstamp 78bbc734-c0c9-4719-b46e-29a50a049019))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 36 "Net-(D32-A)") (pinfunction "2") (pintype "passive") (tstamp 8c99ed93-7dcf-41d6-8412-9646f40cf175))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Stabilizer:Stabilizer_MX_2.00u" (layer "F.Cu")
+  (footprint "Personal_Stabilizer:Stabilizer_MX_2.00u" (layer "F.Cu")
     (tstamp 7139a154-f8ee-4a91-aa72-7b459be36752)
     (at 110.96625 126.365 180)
     (descr "MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u")
@@ -3941,14 +3941,14 @@
     (pad "" np_thru_hole circle (at -11.938 8.225 180) (size 3.9878 3.9878) (drill 3.9878) (layers "*.Cu" "*.Mask") (tstamp 18b41831-28df-49d5-a4ba-0568bff453fc))
     (pad "" np_thru_hole circle (at 11.938 -6.985 180) (size 3.048 3.048) (drill 3.048) (layers "*.Cu" "*.Mask") (tstamp cbad05fb-d310-4408-ae4c-2ce708b06c4d))
     (pad "" np_thru_hole circle (at 11.938 8.225 180) (size 3.9878 3.9878) (drill 3.9878) (layers "*.Cu" "*.Mask") (tstamp 6f887636-6746-482c-86b9-cbb7bd96e047))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Stabilizer.3dshapes/Stabilizer_MX_2.00u.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Stabilizer.3dshapes/Stabilizer_MX_2.00u.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 773d69a9-f043-4d55-ae78-16bc98f84cdf)
     (at 60.96 126.365)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -4088,24 +4088,24 @@
       (net 44 "Column 1") (pinfunction "1") (pintype "passive") (tstamp d939f63b-89a3-425f-8dc1-abe3009a7d2a))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 35 "Net-(D31-A)") (pinfunction "2") (pintype "passive") (tstamp a9a6d848-7338-4179-b403-91f1b786beed))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 7a1e3254-e99f-4bd2-9865-873932f1af56)
     (at 218.1225 126.365)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -4245,24 +4245,24 @@
       (net 52 "Column 9") (pinfunction "1") (pintype "passive") (tstamp e1ffb704-bd33-4906-87bb-21f9029365c7))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 41 "Net-(D37-A)") (pinfunction "2") (pintype "passive") (tstamp 37f829ad-81f7-49dc-9ee1-f9365ecc05cc))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_2.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_2.00u" (layer "F.Cu")
     (tstamp 80607ce5-e6a6-4d57-ab9e-615964826d2c)
     (at 151.4475 126.365)
     (descr "keyswitch Hotswap Socket Keycap 2.00u")
@@ -4402,24 +4402,24 @@
       (net 49 "Column 6") (pinfunction "1") (pintype "passive") (tstamp 6ab4229f-46df-4cb1-9555-dde665d212e5))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 38 "Net-(D34-A)") (pinfunction "2") (pintype "passive") (tstamp 419c8469-4a32-428e-8993-98a808f52def))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_2.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_2.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 8c532c0f-ccf1-460c-bc2c-eaed2138025c)
     (at 84.7725 88.265)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -4559,24 +4559,24 @@
       (net 45 "Column 2") (pinfunction "1") (pintype "passive") (tstamp 705e9df1-20e6-4c68-8926-7ad112c401f4))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 15 "Net-(D13-A)") (pinfunction "2") (pintype "passive") (tstamp fbb49a35-3dce-422c-a732-fd5aa8b67b85))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 96d15cfd-9d0b-4197-a6d9-5e74992e7cbc)
     (at 132.3975 107.315)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -4716,24 +4716,24 @@
       (net 48 "Column 5") (pinfunction "1") (pintype "passive") (tstamp 05dabd2d-86b7-4a33-8d82-dd3d3a8699f7))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 28 "Net-(D25-A)") (pinfunction "2") (pintype "passive") (tstamp ad3dd31f-81d2-47c1-990f-29c6be842ce1))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp 98d18d2a-abdb-4237-a6d9-a06258347574)
     (at 151.4475 107.315)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -4873,24 +4873,24 @@
       (net 49 "Column 6") (pinfunction "1") (pintype "passive") (tstamp ce673a88-fb78-42f0-9ef4-6f3df95025cc))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 29 "Net-(D26-A)") (pinfunction "2") (pintype "passive") (tstamp d36bf567-15a6-48c0-85b6-ecb3e7f043ee))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp a6f52498-0a8f-4947-b754-90b49644603e)
     (at 175.26 69.215)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -5030,24 +5030,24 @@
       (net 50 "Column 7") (pinfunction "1") (pintype "passive") (tstamp ec558bff-3fd6-4c9d-8744-a58e289303f1))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 9 "Net-(D8-A)") (pinfunction "2") (pintype "passive") (tstamp fcaad390-7925-44c5-becc-2df4a52bcf39))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp a9d1533c-113f-4129-ba43-6ba2bf3931fc)
     (at 60.96 69.215)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -5187,24 +5187,24 @@
       (net 44 "Column 1") (pinfunction "1") (pintype "passive") (tstamp cf8cd7e4-5692-4cd5-aaf4-e8954df98a1f))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 3 "Net-(D2-A)") (pinfunction "2") (pintype "passive") (tstamp 9fca5ff7-c29a-4f9a-86e2-1548394fa1b7))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_MCU:Frood_PinHeader_2x13+5_P2.54mm_Labels_Top" (layer "F.Cu")
+  (footprint "Personal_MCU:Frood_PinHeader_2x13+5_P2.54mm_Labels_Top" (layer "F.Cu")
     (tstamp b86125f4-ef22-404d-98b4-596445325f6b)
     (at 114.8895 50.165 90)
     (descr "Through hole straight pin header, 1x12, 2.54mm pitch, single row")
@@ -5437,7 +5437,7 @@
       (net 61 "unconnected-(U1-RAW-Pad30)") (pinfunction "RAW") (pintype "power_in") (tstamp e31923fd-15da-403e-9bbe-7dec72c40bc3))
     (pad "31" thru_hole oval (at 7.62 0 90) (size 1.5 1.5) (drill 0.83) (layers "*.Cu" "*.Mask")
       (net 62 "unconnected-(U1-USB_D--Pad31)") (pinfunction "USB_D-") (pintype "bidirectional") (tstamp aadf0a15-d19a-44d3-afe8-682f5b84f95b))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MCU.3dshapes/Frood_rev7.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MCU.3dshapes/Frood_rev7.step"
       (offset (xyz 0.006 -19.924 2.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5454,7 +5454,7 @@
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_2.25u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_2.25u" (layer "F.Cu")
     (tstamp cc9a7f39-2fff-44dd-b12a-a4b5636b7365)
     (at 110.96625 126.365)
     (descr "keyswitch Hotswap Socket Keycap 2.25u")
@@ -5594,24 +5594,24 @@
       (net 47 "Column 4") (pinfunction "1") (pintype "passive") (tstamp 6c3f410c-b06e-4e3e-88dd-17420e2fe52f))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 37 "Net-(D33-A)") (pinfunction "2") (pintype "passive") (tstamp 9490bdc6-0bbd-4f91-ba51-3398de0c1ebb))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_2.25u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_2.25u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp cdf0ccf0-bd39-4f9a-8775-548ca9819609)
     (at 160.9725 88.265)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -5751,24 +5751,24 @@
       (net 49 "Column 6") (pinfunction "1") (pintype "passive") (tstamp ae795d5a-c84b-4da7-ad5d-1e5bc0b4c5ae))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 19 "Net-(D17-A)") (pinfunction "2") (pintype "passive") (tstamp 80c619bd-b454-4b62-a3a3-a9bbaedf90e2))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp dc9f2b63-ba8c-4c58-a66c-cb3c9ef34d2d)
     (at 213.36 107.315)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -5908,24 +5908,24 @@
       (net 52 "Column 9") (pinfunction "1") (pintype "passive") (tstamp daf06bcf-e017-4866-b5ec-4f9da0f6dd2d))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 32 "Net-(D29-A)") (pinfunction "2") (pintype "passive") (tstamp 2bc14ba6-324e-4ad6-8688-811b81241a6a))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp eec8ba3a-7ec4-4724-926e-36b692a56899)
     (at 122.8725 88.265)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -6065,24 +6065,24 @@
       (net 47 "Column 4") (pinfunction "1") (pintype "passive") (tstamp 5959b7f1-399f-43c8-b099-e808ede85bf0))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 17 "Net-(D15-A)") (pinfunction "2") (pintype "passive") (tstamp 2eb54c00-ad0b-47ce-b343-8e10fc07155b))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp ef7aabe6-e150-467f-9303-7e7b45b88e8c)
     (at 65.7225 88.265)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -6222,24 +6222,24 @@
       (net 44 "Column 1") (pinfunction "1") (pintype "passive") (tstamp 4a73b62d-1adf-4a87-855a-725f349685d5))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 14 "Net-(D12-A)") (pinfunction "2") (pintype "passive") (tstamp 34692129-83c5-4614-a53c-7129eeeaee33))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
+  (footprint "Personal_Hotswap:Hotswap_MX_1.00u" (layer "F.Cu")
     (tstamp f33d2f60-947c-40f5-8dde-5ab835f5cb3e)
     (at 113.3475 107.315)
     (descr "keyswitch Hotswap Socket Keycap 1.00u")
@@ -6379,24 +6379,24 @@
       (net 47 "Column 4") (pinfunction "1") (pintype "passive") (tstamp 57be82dc-dc01-4357-aa0e-44ba2e206944))
     (pad "2" smd roundrect (at -5.842 5.08 180) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.1)
       (net 27 "Net-(D24-A)") (pinfunction "2") (pintype "passive") (tstamp 07c5ce80-3945-421d-b073-7a758d06ffb3))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Hotswap.3dshapes/Hotswap_MX.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Hotswap.3dshapes/Hotswap_MX.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_MX.3dshapes/MX_PCB.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_MX.3dshapes/MX_PCB.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_CAD.3dshapes/MX_1.00u_CAD.step" hide
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_CAD.3dshapes/MX_1.00u_CAD.step" hide
       (offset (xyz 0 0 17))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 180 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 056c15d3-04b6-4ad6-893b-7fb4917f11a7)
     (at 75.2475 95.40875 90)
     (descr "SOD-123")
@@ -6469,14 +6469,14 @@
       (net 12 "Row 1") (pinfunction "K") (pintype "passive") (tstamp f1dfe3c6-6912-4b48-8536-dca8ea9cfe9f))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 14 "Net-(D12-A)") (pinfunction "A") (pintype "passive") (tstamp 88197c7d-885e-4900-bae2-d4246c85858f))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 080cb652-e721-467f-ade0-439cc4c37624)
     (at 184.785 76.35875 90)
     (descr "SOD-123")
@@ -6549,14 +6549,14 @@
       (net 1 "Row 0") (pinfunction "K") (pintype "passive") (tstamp 671f481d-e50b-4c2c-904d-9c8ef6cf6e29))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 9 "Net-(D8-A)") (pinfunction "A") (pintype "passive") (tstamp e26e93ca-6f64-4d26-a232-6093f8bf5dc7))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 089f9f1b-ff6a-4261-bd44-52992183f4ca)
     (at 160.9725 114.45875 90)
     (descr "SOD-123")
@@ -6629,14 +6629,14 @@
       (net 23 "Row 2") (pinfunction "K") (pintype "passive") (tstamp 22f09738-9e35-49f0-a43b-fb0beb29898a))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 29 "Net-(D26-A)") (pinfunction "A") (pintype "passive") (tstamp 5ccac971-fc28-4ed4-8168-5d81f5a80e62))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 0a4d4bbb-0515-44a6-8266-57ca393f8f87)
     (at 227.6475 95.40875 90)
     (descr "SOD-123")
@@ -6709,14 +6709,14 @@
       (net 12 "Row 1") (pinfunction "K") (pintype "passive") (tstamp 3713a8f6-8be3-4aac-87f5-b7c88e2d2a0a))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 22 "Net-(D20-A)") (pinfunction "A") (pintype "passive") (tstamp 66583a2b-e860-4024-b46c-97f3f86310fd))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 0ab4b2d9-19fa-4111-994c-3a54a4578766)
     (at 132.3975 95.40875 90)
     (descr "SOD-123")
@@ -6789,14 +6789,14 @@
       (net 12 "Row 1") (pinfunction "K") (pintype "passive") (tstamp ff5f7e7d-2673-4718-9ae0-78f871915a4a))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 17 "Net-(D15-A)") (pinfunction "A") (pintype "passive") (tstamp 46fbcbbc-ec7e-425a-b3c3-50082491b1f9))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 0bd8edbe-4224-479e-a22b-5fbeefb92bf0)
     (at 151.4475 95.40875 90)
     (descr "SOD-123")
@@ -6869,14 +6869,14 @@
       (net 12 "Row 1") (pinfunction "K") (pintype "passive") (tstamp b72b3e21-0a0b-4b20-b9d0-939f4a369b51))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 18 "Net-(D16-A)") (pinfunction "A") (pintype "passive") (tstamp f0fadb1c-9275-40aa-ad6a-78ff5a3be03c))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 0eecfb73-c81b-4558-a8a5-abde4c330539)
     (at 103.8225 114.45875 90)
     (descr "SOD-123")
@@ -6949,14 +6949,14 @@
       (net 23 "Row 2") (pinfunction "K") (pintype "passive") (tstamp 08401777-7605-45da-b7df-4ce328cd7435))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 26 "Net-(D23-A)") (pinfunction "A") (pintype "passive") (tstamp ae038d0e-d8ac-4a2b-a6d9-3b90835044a8))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 0f1c10a3-5297-4d0e-97c9-30df38981598)
     (at 146.685 76.35875 90)
     (descr "SOD-123")
@@ -7029,14 +7029,14 @@
       (net 1 "Row 0") (pinfunction "K") (pintype "passive") (tstamp b7b0602c-c9cc-44c4-b8b0-93cf3492ef84))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 7 "Net-(D6-A)") (pinfunction "A") (pintype "passive") (tstamp 868cab63-a3e7-4d56-9d81-357ae8d2f333))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 1240a5f2-6ee0-4b10-baf1-c02f23a0c182)
     (at 225.26625 76.35875 90)
     (descr "SOD-123")
@@ -7109,14 +7109,14 @@
       (net 1 "Row 0") (pinfunction "K") (pintype "passive") (tstamp f9af02a8-8fa0-45d9-80ed-c02290a29935))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 11 "Net-(D10-A)") (pinfunction "A") (pintype "passive") (tstamp cf28fcfe-8d75-4cfd-b211-beb874b3cc7d))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 14029709-ced9-42aa-8dfa-133290a7c25b)
     (at 127.635 76.35875 90)
     (descr "SOD-123")
@@ -7189,14 +7189,14 @@
       (net 1 "Row 0") (pinfunction "K") (pintype "passive") (tstamp 6e916dab-c5fb-4824-ad37-c7c722553073))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 6 "Net-(D5-A)") (pinfunction "A") (pintype "passive") (tstamp 2b47f208-23e1-4918-ab6f-354c1de54796))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 1408a21f-0e60-4a11-a1e0-2e7902f99003)
     (at 208.5975 133.50875 90)
     (descr "SOD-123")
@@ -7269,14 +7269,14 @@
       (net 33 "Row 3") (pinfunction "K") (pintype "passive") (tstamp 811cc3ac-298a-4320-b146-7991a88d7967))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 40 "Net-(D36-A)") (pinfunction "A") (pintype "passive") (tstamp 96652354-9549-472a-a678-212e24403a09))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 36570596-7aad-4d58-8c35-1d39d87b7f88)
     (at 113.3475 95.40875 90)
     (descr "SOD-123")
@@ -7349,14 +7349,14 @@
       (net 12 "Row 1") (pinfunction "K") (pintype "passive") (tstamp 5847c562-8435-4cc5-92a8-aac07e82e5b8))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 16 "Net-(D14-A)") (pinfunction "A") (pintype "passive") (tstamp 4b46df39-7a97-4884-819b-430805b61d3c))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 3e98fd67-5151-4b7d-acb1-0ba134e51bb8)
     (at 208.5975 95.40875 90)
     (descr "SOD-123")
@@ -7429,14 +7429,14 @@
       (net 12 "Row 1") (pinfunction "K") (pintype "passive") (tstamp 64afd304-1dcf-4b5e-b4fd-62aec209a44e))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 21 "Net-(D19-A)") (pinfunction "A") (pintype "passive") (tstamp 6216ecd1-b75a-499d-ae50-a746b42b2601))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 3f1efd7b-2165-4269-8cda-949e2e0d9fcd)
     (at 189.5475 95.40875 90)
     (descr "SOD-123")
@@ -7509,14 +7509,14 @@
       (net 12 "Row 1") (pinfunction "K") (pintype "passive") (tstamp 2b6ca1ef-a2a5-4b64-bdfe-fabc7dd5a980))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 20 "Net-(D18-A)") (pinfunction "A") (pintype "passive") (tstamp 3105ed37-3fd8-4528-a48b-7fa4889a556f))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 452d101b-d1f5-46d1-9364-dad3b027c795)
     (at 203.835 76.35875 90)
     (descr "SOD-123")
@@ -7589,14 +7589,14 @@
       (net 1 "Row 0") (pinfunction "K") (pintype "passive") (tstamp c49f35d6-19bf-4126-ae94-ebb9119d387f))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 10 "Net-(D9-A)") (pinfunction "A") (pintype "passive") (tstamp a3942c8b-a2a2-4e55-bd54-932f54ba0a7b))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 46a7d0f8-f6f3-4b28-9f08-ab8da7c858c6)
     (at 58.57875 114.45875 90)
     (descr "SOD-123")
@@ -7669,14 +7669,14 @@
       (net 23 "Row 2") (pinfunction "K") (pintype "passive") (tstamp 6138a444-82ab-45df-a97d-e30d2ac880f8))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 24 "Net-(D21-A)") (pinfunction "A") (pintype "passive") (tstamp 81b121d0-27b1-4538-bf3b-0c2ef10cafec))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 527f6097-fd5a-4281-9d77-9cd41d0291a5)
     (at 108.585 76.35875 90)
     (descr "SOD-123")
@@ -7749,14 +7749,14 @@
       (net 1 "Row 0") (pinfunction "K") (pintype "passive") (tstamp 7086f1a7-4892-49f3-a5e2-5985b8c684c2))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 5 "Net-(D4-A)") (pinfunction "A") (pintype "passive") (tstamp 3259b1eb-412c-4330-b8f8-e585c34a3783))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 5862935c-72cc-4455-92f3-70a2a0bd2840)
     (at 141.9225 114.45875 90)
     (descr "SOD-123")
@@ -7829,14 +7829,14 @@
       (net 23 "Row 2") (pinfunction "K") (pintype "passive") (tstamp 87b85382-2b7a-40b3-95ad-1b039d9146ee))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 28 "Net-(D25-A)") (pinfunction "A") (pintype "passive") (tstamp 341b0f55-1f12-4e35-8fd0-9d0c6f3d65af))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 5d84eafc-2967-472a-a1a7-ede8fc01795d)
     (at 70.485 133.50875 90)
     (descr "SOD-123")
@@ -7909,14 +7909,14 @@
       (net 33 "Row 3") (pinfunction "K") (pintype "passive") (tstamp 415ea38e-a238-46f1-80ac-ea648b5435b3))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 35 "Net-(D31-A)") (pinfunction "A") (pintype "passive") (tstamp 76a2f13e-7f83-49a8-ae9b-3fb46d66b8e1))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 5dbe9bfd-3e74-47d2-a9d2-fb6a595418e5)
     (at 170.4975 133.50875 90)
     (descr "SOD-123")
@@ -7989,14 +7989,14 @@
       (net 33 "Row 3") (pinfunction "K") (pintype "passive") (tstamp a129ed73-3aa0-481d-bd44-52b58e09356c))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 38 "Net-(D34-A)") (pinfunction "A") (pintype "passive") (tstamp a6f02081-28d1-4d0c-8b1a-4caa59984b8a))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 8ede0d9d-b8ec-4fe0-b030-6f7522eda518)
     (at 180.0225 114.45875 90)
     (descr "SOD-123")
@@ -8069,14 +8069,14 @@
       (net 23 "Row 2") (pinfunction "K") (pintype "passive") (tstamp e2dc3b88-9499-4e1f-9e18-64e5ceb31588))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 30 "Net-(D27-A)") (pinfunction "A") (pintype "passive") (tstamp d9ab7571-9264-4d0d-bdd6-24e65e90760a))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 90494b72-ca6c-4a1f-9a77-a3ce61c65cc7)
     (at 51.435 76.35875 90)
     (descr "SOD-123")
@@ -8149,14 +8149,14 @@
       (net 1 "Row 0") (pinfunction "K") (pintype "passive") (tstamp 1726b124-8ffc-41ba-b686-7be9571a051c))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 2 "Net-(D1-A)") (pinfunction "A") (pintype "passive") (tstamp 5086b11c-0d13-4aca-9b0f-ed15b118b6b3))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp 952924e2-c4a0-4d96-90ef-ff8eaa27ad8a)
     (at 130.01625 119.22125 90)
     (descr "SOD-123")
@@ -8229,14 +8229,14 @@
       (net 23 "Row 2") (pinfunction "K") (pintype "passive") (tstamp 5c628578-cf71-4cad-947d-8d45cf5f716d))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 27 "Net-(D24-A)") (pinfunction "A") (pintype "passive") (tstamp e490d347-6780-4ff8-95a2-7121260ae869))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp a01cdeb6-d609-498b-a6de-4d7d7897219c)
     (at 165.735 76.35875 90)
     (descr "SOD-123")
@@ -8309,14 +8309,14 @@
       (net 1 "Row 0") (pinfunction "K") (pintype "passive") (tstamp a342c3fc-eb36-4a4a-91ff-9ef93728717c))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 8 "Net-(D7-A)") (pinfunction "A") (pintype "passive") (tstamp 968b4f7b-2c11-4b37-b941-f0b313e9b7e4))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp a787d091-ddec-4f59-97ac-5b92599cb5ce)
     (at 203.581 43.434 90)
     (descr "SOD-123")
@@ -8389,14 +8389,14 @@
       (net 66 "Row 4") (pinfunction "K") (pintype "passive") (tstamp 05a34f37-e227-4802-b3f9-963a21d6e050))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 67 "Net-(D38-A)") (pinfunction "A") (pintype "passive") (tstamp dacf1b96-5a05-4dbd-acbd-dbe6043d72c5))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp a8068c00-7ef9-41bc-985d-795fd60c4fe0)
     (at 53.81625 95.40875 90)
     (descr "SOD-123")
@@ -8469,14 +8469,14 @@
       (net 12 "Row 1") (pinfunction "K") (pintype "passive") (tstamp 35964851-d52f-4b74-bb7d-a5d1d648c9e8))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 13 "Net-(D11-A)") (pinfunction "A") (pintype "passive") (tstamp 378b4471-21b1-4871-9d9a-c5bfa7d2694f))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp b3e6e024-b78c-4b26-aa6e-d98027cdde2b)
     (at 51.435 133.50875 90)
     (descr "SOD-123")
@@ -8549,14 +8549,14 @@
       (net 33 "Row 3") (pinfunction "K") (pintype "passive") (tstamp 0d52d073-9e45-4089-8c9b-f55ba0539eb7))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 34 "Net-(D30-A)") (pinfunction "A") (pintype "passive") (tstamp eded8489-4564-48d2-9f16-c263a291294b))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp b694fbb1-3e9f-4a92-9d79-4445c5e9088a)
     (at 170.4975 95.40875 90)
     (descr "SOD-123")
@@ -8629,14 +8629,14 @@
       (net 12 "Row 1") (pinfunction "K") (pintype "passive") (tstamp a7dd12ad-ff16-42d7-ab5c-f14121d00cb1))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 19 "Net-(D17-A)") (pinfunction "A") (pintype "passive") (tstamp 27227cb9-6ff1-464c-af07-0c4802555945))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp b6ff9254-9e57-427f-b3f3-b582f9564372)
     (at 70.485 76.35875 90)
     (descr "SOD-123")
@@ -8709,14 +8709,14 @@
       (net 1 "Row 0") (pinfunction "K") (pintype "passive") (tstamp 2212166a-f14a-4dc4-aecd-7ac6be17f39e))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 3 "Net-(D2-A)") (pinfunction "A") (pintype "passive") (tstamp de19dd81-6eda-4e8f-8499-f0c6a037f462))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp bf828a6d-8546-42c9-8175-683492cb9b53)
     (at 199.0725 114.45875 90)
     (descr "SOD-123")
@@ -8789,14 +8789,14 @@
       (net 23 "Row 2") (pinfunction "K") (pintype "passive") (tstamp 725d0d4a-3688-4283-8367-1f7029d6e715))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 31 "Net-(D28-A)") (pinfunction "A") (pintype "passive") (tstamp c2b6d28f-6940-4f14-aef2-684165aaa133))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp caf57c8c-ce43-4976-af09-b2f52b5f94bf)
     (at 222.885 114.45875 90)
     (descr "SOD-123")
@@ -8869,14 +8869,14 @@
       (net 23 "Row 2") (pinfunction "K") (pintype "passive") (tstamp 90f54005-27d0-48af-ba25-dcfb66e16539))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 32 "Net-(D29-A)") (pinfunction "A") (pintype "passive") (tstamp 6ea37ab3-308c-4b0b-857e-306666257b83))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp d38b5847-98b4-4b38-8278-e7d6f1995882)
     (at 94.2975 95.40875 90)
     (descr "SOD-123")
@@ -8949,14 +8949,14 @@
       (net 12 "Row 1") (pinfunction "K") (pintype "passive") (tstamp 6c48ec6e-6ce8-4cdc-b678-464f781b77f2))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 15 "Net-(D13-A)") (pinfunction "A") (pintype "passive") (tstamp 5b250039-7e32-47ce-b1e1-098b58c0360e))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp d7683d59-51c1-41b7-a819-de57bad5ddbe)
     (at 227.6475 133.50875 90)
     (descr "SOD-123")
@@ -9029,14 +9029,14 @@
       (net 33 "Row 3") (pinfunction "K") (pintype "passive") (tstamp 37de3ab1-b7c1-4256-8eed-164af0724649))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 41 "Net-(D37-A)") (pinfunction "A") (pintype "passive") (tstamp d95d747e-3285-4b8d-83b7-e39f86ac165a))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp dd2e42be-2be3-464a-a006-a9eb8c17494a)
     (at 189.5475 133.50875 90)
     (descr "SOD-123")
@@ -9109,14 +9109,14 @@
       (net 33 "Row 3") (pinfunction "K") (pintype "passive") (tstamp 544b756b-778a-44b7-b03e-3ab001ae6a53))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 39 "Net-(D35-A)") (pinfunction "A") (pintype "passive") (tstamp f77655e2-9a9d-47ca-b1dc-e7f77721cac7))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp eaa9f7fa-2a1f-4faa-82ee-ec7b63960319)
     (at 84.7725 114.45875 90)
     (descr "SOD-123")
@@ -9189,14 +9189,14 @@
       (net 23 "Row 2") (pinfunction "K") (pintype "passive") (tstamp ff8f3938-8956-4944-ad80-f580fcc9b9dd))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 25 "Net-(D22-A)") (pinfunction "A") (pintype "passive") (tstamp 9f773e4c-5c29-4ff7-af98-26e30bd13d1e))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp f1c50818-25fd-46bf-b515-10d837b8552a)
     (at 130.01625 133.50875 90)
     (descr "SOD-123")
@@ -9269,14 +9269,14 @@
       (net 33 "Row 3") (pinfunction "K") (pintype "passive") (tstamp 6ed3784c-9ced-45da-bd6f-b987d2cd2f5d))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 37 "Net-(D33-A)") (pinfunction "A") (pintype "passive") (tstamp 4271ef25-9c0d-44d6-aaf4-731d95185b35))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp fc8f8aeb-b12e-41a0-9c6c-9e4816b7cd2f)
     (at 89.535 133.50875 90)
     (descr "SOD-123")
@@ -9349,14 +9349,14 @@
       (net 33 "Row 3") (pinfunction "K") (pintype "passive") (tstamp 16b9e77f-e019-41ac-9bf9-06b8057b13e7))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 36 "Net-(D32-A)") (pinfunction "A") (pintype "passive") (tstamp 12324367-f6a0-4a33-a139-0c0fd0a27c12))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
   )
 
-  (footprint "Kunsteak_Components:Diode_SOD-123" (layer "B.Cu")
+  (footprint "Personal_Components:Diode_SOD-123" (layer "B.Cu")
     (tstamp fd744b52-0e5f-4c6a-86d9-1bb1a42492f5)
     (at 89.535 76.35875 90)
     (descr "SOD-123")
@@ -9429,7 +9429,7 @@
       (net 1 "Row 0") (pinfunction "K") (pintype "passive") (tstamp 87a2b40e-3a1f-4b04-b84a-02c5d47a880b))
     (pad "2" smd roundrect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.25)
       (net 4 "Net-(D3-A)") (pinfunction "A") (pintype "passive") (tstamp 34b283d0-9361-4ae2-ba2b-e31f2a237d44))
-    (model "${KUNSTEAK_KICAD}/3dmodels/Kunsteak_Components.3dshapes/Diode_SOD-123.step"
+    (model "${PERSONAL_KICAD}/3dmodels/Personal_Components.3dshapes/Diode_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))

@@ -1,6 +1,12 @@
-# KunsteakKicad
+# PersonalKiCad
 
-A collection of footprints, symbols, and 3D models for building mechanical keyboards with Kicad.
+A collection of footprints, symbols, and 3D models for building mechanical keyboards with KiCad.
+
+This repo and most of the files were originally collected by [Joe Scotto](https://github.com/joe-scotto).
+
+Because Joe updated/created some of his symbols and footprints with newer versions of KiCad (instead of version 7.0.11), they were no longer compatible with previous versions. Hence, this fork/repo, with most of the footprints and symbols working and complete for version 7.0.11.
+
+I've renamed all the folders, files and the corresponding paths from 'scottokeebs' to 'personal' in order to improve reuseability and individualisation, as 'personal' is more impersonal and easier to remember for oneself than 'scottokeebs'.
 
 # Common grid sizes
 
@@ -11,7 +17,8 @@ A collection of footprints, symbols, and 3D models for building mechanical keybo
 -   19.05x19.05 (MX/Alps)
     -   1.00u - X: 19.05, Y: 19.05
     -   0.50u - X: 9.525, Y: 9.525
-    -   0.25u X: 4.7625, Y: 4.7625
+    -   0.25u - X: 4.7625, Y: 4.7625
+    -   0.125u - X: 2.38125, Y: 2.38125
 
 # Common Shortcuts
 
@@ -35,6 +42,6 @@ Please refer to each library in order to understand the license it uses, most ar
 
 # Credits
 
-This collection of files was originally done by Joe Scotto of ScottoKeebs.
-
+-   Original repo/folder - Owner and maintainer is [Joe Scotto](https://github.com/joe-scotto). The forked folder is from his main scottokeebs repo, [ScottoKicad](https://github.com/joe-scotto/scottokeebs/tree/main/Extras/ScottoKicad).
 -   nice!nano - Base dimensions and placement by @Knotherface, can be found on GitHub as [Leopere](https://github.com/Leopere).
+-   Frood - Footprints and symbols were gathered from [piit79](https://github.com/piit79)'s [Frood](https://github.com/piit79/Frood) repo (GNU General Public License v3.0).
